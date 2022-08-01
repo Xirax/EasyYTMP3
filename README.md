@@ -7,7 +7,7 @@ Aleksander Gacek (aka Xirax)
 ## Latest Version
 v0.9 (Experimental)
 
-## Futures
+## Features
 - Downloading any video from youtube with mp4 format (with video) or mp3 format (only audio)
 - Changing download location
 - Changing file name 
