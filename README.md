@@ -15,6 +15,7 @@ v0.9 (Experimental)
 
 ## Important Informations!!!
 - Remeber that youtube videos contains copyrights, use downloaded contents only for own, non-profitable purposes
+- .exe file is in /bin/debug/ytDownloader.exe and all you have to do is run it
 
 ## Known issues
 - File not downloading when "name same as youtube" option selected (Issue not found yet)
